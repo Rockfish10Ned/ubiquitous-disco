@@ -1,3 +1,4 @@
+#Calculate reduced stats for data files at J= 100 c/bp
 for datafile in "$@"
 do
 	echo $datafile
